@@ -1,6 +1,9 @@
 # SRE Interviewing Questions
 
-Hi, I'm [Michael Kehoe](https://michael-kehoe.io) and this repository is a collection of Site Reliability Engineer (SRE) interview questions and answers. Please feel free to share or send me PR's with answers or new questions
+Hi, I'm [Purushotham Muktha] and this repository is a collection of Site Reliability Engineer (SRE) interview questions and answers. Please feel free to share or send me PR's with answers or new questions
+
+# Consolidated few tips collected from various internet sources.
+
 
 ## Interview Topics
 
